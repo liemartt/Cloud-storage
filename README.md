@@ -42,6 +42,7 @@ REDIS_HOST=redis
 
 App is available at https://localhost:8081/
 
-![main_page](https://github.com/user-attachments/assets/d4cc0bfe-217b-496f-9f06-cd5d73228d34)
-![login_page](https://github.com/user-attachments/assets/a811cbcf-bb39-4644-8802-bb3cac13e0be)
-![search_page](https://github.com/user-attachments/assets/059d420a-4054-4da7-b6ad-36e0f503570d)
+![image](https://github.com/user-attachments/assets/ed87bd7f-bb60-42f9-88dc-579f1cbac4cc)
+![image](https://github.com/user-attachments/assets/95b8a3b2-3f8c-4504-859b-e9a0027de7ba)
+![image](https://github.com/user-attachments/assets/edb1cd51-e081-42a5-a56c-c7476a6ca94a)
+
